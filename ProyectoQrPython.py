@@ -1,7 +1,6 @@
 import random
-import qrcode  # generar QR
-# se usa la palabra reservada "pass" para rellenar hasta trabajar con la funcion
-# es un tipo pasar para que no de errores 
+import qrcode
+
 detalleCompras = [[],[],[],[],[],[]]
 
 def menuOpciones():
@@ -108,4 +107,5 @@ def main():
             eliminarPedido()
         opcion = menuOpciones()
         print("Gracias por usar el sistema")
+
 main()
