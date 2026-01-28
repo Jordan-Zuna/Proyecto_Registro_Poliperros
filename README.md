@@ -5,6 +5,6 @@
   - Ingrese a la pestaña "RegistroDePedidos.exe" para descargar el archivo ejecutable.
       - Dar click en "View raw" o en el ícono de descarga para obtener la aplicación.
       - Dar doble click en el archivo descargado y ejecute.
-<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/d5020d00-d469-486e-8a6b-5e5053f5d386" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d5020d00-d469-486e-8a6b-5e5053f5d386" />
 
 
