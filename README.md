@@ -1,4 +1,4 @@
-# Proyecto en Python
+# Aplicación para Registro de Poliperros
   - Aplicación de escritorio para el registro de Poliperros.
   - Ingrese a la pestaña "RegistroPoliperros.exe" para descargar el archivo ejecutable.
       - Dar click en "View raw" para descargar la aplicación.
