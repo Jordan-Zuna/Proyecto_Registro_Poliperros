@@ -5,7 +5,7 @@
     - Mostrar el registro hecho.
     - Generar un código QR para el pago digital.
     -  Eliminar el pedido hecho.
-  \nEsta aplicacion mediante sus opciones permite que el cliente pueda realizar sus compras de manera sencilla.
+Esta aplicacion mediante sus opciones permite que el cliente pueda realizar sus compras de manera sencilla.
     # Para la descarga:
   - Ingrese a la pestaña "RegistroDePedidos.exe" para descargar el archivo ejecutable.
       - Dar click en "View raw" o en el ícono de descarga en la parte derecha para obtener la aplicación.
